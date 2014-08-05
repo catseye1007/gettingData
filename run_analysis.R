@@ -9,7 +9,7 @@ xtest<-read.table("UCI HAR Dataset/test/X_test.txt")
 head(xtest)
 ytest<-read.table("UCI HAR Dataset/test/y_test.txt")
 head(ytest)
-test<-cbind(xtest,ytest
+test<-cbind(xtest,ytest)
 
 result<-NULL
 result<-rbind(test, train)
