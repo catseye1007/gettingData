@@ -26,7 +26,7 @@ mresult: the requested dataset
 sresult: a list that was split by Subject and Label in mresult
 result1: to store all the average numbers of each record
 
-splitnames: the rownames of result1 is like **1.STANDING**, the splitnames is a dataframe that like ** 1 STANDING **
+splitnames: the rownames of result1 is like **1.STANDING**, the splitnames is a dataframe that like **1 STANDING**
 result2: bind splitnames(indicates the subjects and lables) and result1
 result2.txt: the final output
 
