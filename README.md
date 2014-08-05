@@ -27,10 +27,12 @@ sresult: a list that was split by Subject and Label in mresult
 result1: to store all the average numbers of each record
 
 splitnames: the rownames of result1 is like **1.STANDING**, the splitnames is a dataframe that like **1 STANDING**
+
 result2: bind splitnames(indicates the subjects and lables) and result1
+
 result2.txt: the final output
 
 
 *please note that there are some head() and class() function used in the script, which are just for watching the process. I understand that they are not necessary.*
 
-###Thank you for your time!
+###Thank you for your time!:smile:
